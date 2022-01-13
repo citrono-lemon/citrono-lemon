@@ -1,12 +1,17 @@
 - 👋 Hi, I’m @citrono-lemon
 - 👀 I’m interested in ...
-  - ゲームプログラミング(Unity, PhaserJS)
-  - スマホアプリ開発(Android, kotlin)
-  - Webアプリ開発(Next.js+Typescript)
-  - 機械学習(tensorflow; 勉強中)
+  - Program
+    - Game Dev(Unity, PhaserJS)
+    - Android App(Kotlin)
+    - Web App(Express+Next.js+Typescript)
+  - Music Compose
+  - Illustrate
 - 🌱 I’m currently learning ...
+  - Tensorflow
+  - Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  - citrono.lemon@gmail.com
 
 <!---
 citrono-lemon/citrono-lemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
