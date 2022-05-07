@@ -1,6 +1,6 @@
 ゲーム制作(Unity, Phaser)が趣味です。  
 一応Androidアプリ(Kotlin)とWebアプリ(Next.js, Typescript, Express)も作れます。  
-ついでに機械学習(tensorflow)とFlutterの勉強もしています。  
+ついでに機械学習(tensorflow)とGolangの勉強もしています。  
 おまけに作曲とイラストもやってます。
 
 🔗 https://citrono.dev
